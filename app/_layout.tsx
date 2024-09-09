@@ -8,6 +8,8 @@ export default function RootLayot() {
 
         }}>
             <Stack.Screen name="index" options={{ title: 'HOME', headerShown: false }} />
+            <Stack.Screen name="about" options={{ title: 'HOME', headerShown: false }} />
+
         </Stack>
     );
 
